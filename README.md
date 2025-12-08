@@ -1,1 +1,1 @@
-# RISC-V-Edge-AI-Workshop
+# RISC-V Edge AI Workshop with VSDQuadron PRO Board
